@@ -5,6 +5,6 @@ def find_max_value(array)
     if (element>max)
       max=element
     end
-  }
+  end
   return max
 end
