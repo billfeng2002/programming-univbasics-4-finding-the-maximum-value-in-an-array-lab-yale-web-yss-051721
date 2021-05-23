@@ -6,5 +6,5 @@ def find_max_value(array)
       max=element
     end
   }
-  max
+  return max
 end
